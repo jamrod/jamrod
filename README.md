@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm James!
-I'm a software Engineer in the Denver/Boulder bubble. 
-I have been working with HTML, CSS and JAvascript for a few years and at the end of 2019 got ahuge skills boost by attending General Assembly's Software Engineering Immersive program.
+I'm a software Engineer in the Denver/Boulder bubble.
+I have been working with HTML, CSS and Javascript for a few years and at the end of 2019 got a huge skills boost by attending General Assembly's Software Engineering Immersive program.
 Since then I've been building websites and serverless apps on AWS and trying to improve my Python game.
 
 <!--
